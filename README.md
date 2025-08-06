@@ -39,7 +39,7 @@
 
 | Category     | Technology                                                                 |
 |--------------|------------------------------------------------------------------------------|
-| 🖥️ Frontend   | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| 🖥️ Frontend   | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
 | 🎨 UI/UX      | ![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?logo=radix-ui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) |
 | 🤖 AI Engine  | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) |
 | ☁️ Hosting   | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
