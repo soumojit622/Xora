@@ -46,14 +46,6 @@
 
 ---
 
-## ✍️ Author
-
-Made with ❤️ by [Soumojit Banerjee](https://github.com/soumojit622)  
-🔗 Portfolio: [https://soumojit.me](https://soumojit.me)  
-📧 Email: [soumojitofficial@gmail.com](mailto:soumojitbanerjee22@gmail.com)
-
----
-
 ## 🌟 Support
 
 If you found this project helpful or inspiring, consider giving it a ⭐ on GitHub!  
